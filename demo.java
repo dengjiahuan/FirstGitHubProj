@@ -1,4 +1,4 @@
-package javaBasic;
+﻿package javaBasic;
 import java.util.Scanner;
 
 public class demo {
@@ -16,6 +16,6 @@ public class demo {
 		}else if(score>=8000){
 			discount = 0.6;
 		}
-		System.out.println("该会员享受的积分是：" + discount);
+		System.out.println("该会员享受的积分是=1=1=1==1=1=1：" + discount);
 	}
 }
